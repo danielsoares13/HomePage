@@ -3,7 +3,7 @@
   
   - 🌎 My name is Daniel and i am a future **developer**. 
   - 🧬 Soft Skills: **I am self-taught, proactive, communicative, attentive and curious.** 
-  - 📚 Studying: **Python, Flask, HTML, CSS.** 
+  - 📚 Studying: **HTML, CSS, JavaScript** 
   - 📧 **You can find me here:** ⤵️
 
 <p><a href="https://www.linkedin.com/in/daniel-soares-380892231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /> </a></p>
